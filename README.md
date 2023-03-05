@@ -2,7 +2,7 @@
 #### Solution running on : https://replit.com/@ViktoriusSuwand/Timestamp-Microservice-Project-4
 
 This is the result to complete the Timestamp Microservice project. 
-Instructions for building your project can be found at 
+Instructions for building this project can be found at 
 https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice
 
 ###  Some of additional features :
