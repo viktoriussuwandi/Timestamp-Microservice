@@ -6,9 +6,9 @@ Instructions for building this project can be found at
 https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice
 
 ###  Some of additional features :
-* Avoid non date format
-* using Regex to check string date format
-* using toUTCString() function for convertion
+     * Avoid non date format
+     * using Regex to check string date format
+     * using toUTCString() function for convertion
 
 ### Test Scenario :
 - You should provide your own project, not the example URL.
