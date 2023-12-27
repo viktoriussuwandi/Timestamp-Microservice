@@ -1,5 +1,4 @@
 # Timestamp Microservice
-#### Solution running on : [https://replit.com/@ViktoriusSuwand/Timestamp-Microservice-Project-4](https://replit.com/@ViktoriusSuwand/Timestamp-Microservice-Project-4)
 
 #### Documentation can be found on : [https://github.com/viktoriussuwandi/Timestamp-Microservice](https://github.com/viktoriussuwandi/Timestamp-Microservice)
 
